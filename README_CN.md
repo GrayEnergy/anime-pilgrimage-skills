@@ -15,10 +15,10 @@
 
 可以通过 GitHub Pages 查看生成后的路线示例：
 
-* [示例首页](https://icecream-lcx.github.io/anime-pilgrimage-skills/)
-* [Route A：全量点位路线](https://icecream-lcx.github.io/anime-pilgrimage-skills/pilgrimage_route_A.html)
-* [Route B：第 1 天时间适配路线](https://icecream-lcx.github.io/anime-pilgrimage-skills/pilgrimage_route_B_day_1.html)
-* [Route B：第 2 天时间适配路线](https://icecream-lcx.github.io/anime-pilgrimage-skills/pilgrimage_route_B_day_2.html)
+* [示例首页](https://GrayEnergy.github.io/anime-pilgrimage-skills/)
+* [Route A：全量点位路线](https://GrayEnergy.github.io/anime-pilgrimage-skills/pilgrimage_route_A.html)
+* [Route B：第 1 天时间适配路线](https://GrayEnergy.github.io/anime-pilgrimage-skills/pilgrimage_route_B_day_1.html)
+* [Route B：第 2 天时间适配路线](https://GrayEnergy.github.io/anime-pilgrimage-skills/pilgrimage_route_B_day_2.html)
 
 Route A 覆盖所有具有有效坐标的 Anitabi 点位，用于查看完整巡礼点位分布；Route B 则根据用户可用出行时间生成按天拆分的时间适配路线。
 
