@@ -15,10 +15,10 @@ It supports two workflows:
 
 You can view the generated itinerary examples through GitHub Pages:
 
-* [Demo homepage](https://icecream-lcx.github.io/anime-pilgrimage-skills/)
-* [Route A: Full landmark route](https://icecream-lcx.github.io/anime-pilgrimage-skills/pilgrimage_route_A.html)
-* [Route B: Day 1 time-fit route](https://icecream-lcx.github.io/anime-pilgrimage-skills/pilgrimage_route_B_day_1.html)
-* [Route B: Day 2 time-fit route](https://icecream-lcx.github.io/anime-pilgrimage-skills/pilgrimage_route_B_day_2.html)
+* [Demo homepage](https://GrayEnergy.github.io/anime-pilgrimage-skills/)
+* [Route A: Full landmark route](https://GrayEnergy.github.io/anime-pilgrimage-skills/pilgrimage_route_A.html)
+* [Route B: Day 1 time-fit route](https://GrayEnergy.github.io/anime-pilgrimage-skills/pilgrimage_route_B_day_1.html)
+* [Route B: Day 2 time-fit route](https://GrayEnergy.github.io/anime-pilgrimage-skills/pilgrimage_route_B_day_2.html)
 
 Route A covers all valid Anitabi coordinate points and is useful for viewing the full distribution of pilgrimage landmarks. Route B provides daily time-fit routes based on the user's available travel time.
 
